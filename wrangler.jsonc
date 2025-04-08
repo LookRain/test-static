@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "statictest",
+  "compatibility_date": "2025-03-13",
+  "compatibility_flags": ["nodejs_compat"],
+  "kv_namespaces": [
+    {
+      "binding": "CLIMBING_SHOES_FEEDBACK",
+      "id": "1875b658ce93497c829b61b40ae9a447"
+    }
+  ]
+}
